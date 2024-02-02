@@ -2,10 +2,6 @@
 
 Je développes des jeux en JS, j'ai commencé mon premier il y'a quelques semaines qui s'appelle Stone Dodger. Hésite pas à le tester !
 
-## Contact
-- 📧 Email: william77220@hotmail.fr
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/william-mercier-pro/)
-
 ## Projets récents 🛠️
 
 - [STONE DODGER 60FPS](https://mercierw.github.io/Stone-Dodger_version_60FPS/)
@@ -46,3 +42,7 @@ Je développes des jeux en JS, j'ai commencé mon premier il y'a quelques semain
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
 </div>
+
+## Contact
+- 📧 Email: william77220@hotmail.fr
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/william-mercier-pro/)
