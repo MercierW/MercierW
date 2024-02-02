@@ -29,7 +29,7 @@ Je développes des jeux en JS, j'ai commencé mon premier il y'a quelques semain
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-      <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" height="40" alt="react logo"  />
+      <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" height="40" alt="angular logo"  />
   <img width="12" />
 </div>
 
@@ -43,6 +43,6 @@ Je développes des jeux en JS, j'ai commencé mon premier il y'a quelques semain
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
     <img width="12" />
-<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
 </div>
