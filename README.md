@@ -4,7 +4,9 @@ Je développes des jeux en JS, j'ai commencé mon premier il y'a quelques semain
 
 ## Contact
 - 📧 Email: william77220@hotmail.fr
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/william-mercier-pro/)
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUH1gaG9wl4n7dYyzxcMOESd4jxqvz0LmyNA&s" height="10" alt="nodejs logo"  /> 
+
+[LinkedIn](https://www.linkedin.com/in/william-mercier-pro/)
 
 ## Projets récents 🛠️
 
